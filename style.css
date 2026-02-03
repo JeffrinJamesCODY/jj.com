@@ -58,3 +58,9 @@ nav a:hover {
    color: var(--accent);
    border-color: var(--accent);
 }
+
+#timer {
+    font-size: 2rem;
+    font-weight: bold;
+    justify-content: center;
+}
